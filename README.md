@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 🩺 HealthMate AI
-
+final year btech project
 ### AI Powered Personal Health Companion
 
 An intelligent AI-powered personal health companion designed to help users manage their health through personalized insights, symptom analysis, medication tracking, and preventive wellness guidance.
