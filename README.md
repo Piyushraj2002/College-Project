@@ -269,17 +269,17 @@ flutter doctor
 
 ## 👨‍💻 Development Status
 
-🚧 [we will keep updating our application](https://healthmate-ai-phi.vercel.app/)
+🚧 [Click here to download the app](https://healthmate-ai-phi.vercel.app/)
 
 ---
 
 ## 📄 License
 
 This project is developed for educational and research purposes.
-Team Member:- 1) Shravan Kumar 
-              2) Piyush Raj
-              3) Tejaswi
-              4) Amisha Kumari
+Team Member:- - Shravan Kumar 
+              - Piyush Raj
+              - Tejaswi
+              - Amisha Kumari
 ---
 
 <div align="center">
