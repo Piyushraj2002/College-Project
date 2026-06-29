@@ -276,12 +276,15 @@ flutter doctor
 ## 📄 License
 
 This project is developed for educational and research purposes.
-Team Member:- - Shravan Kumar 
-              - Piyush Raj
-              - Tejaswi
-              - Amisha Kumari
----
 
+### Team Members
+
+1. Shravan Kumar
+2. Piyush Raj
+3. Tejaswi
+4. Amisha Kumari
+
+---
 <div align="center">
 
 ### ❤️ Empowering smarter healthcare with artificial intelligence.
